@@ -1,0 +1,13 @@
+services:
+  gfev:
+      image: secoresearch/fuseki:4.7.0
+      ports:
+            - 3001:3030
+  skane:
+      image: secoresearch/fuseki:4.7.0
+      ports:
+            - 3002:3030
+  gevas:
+      image: secoresearch/fuseki:4.7.0
+      ports:
+            - 3003:3030
