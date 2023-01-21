@@ -1,5 +1,7 @@
 # FAIRVASC hackathon (21.01.2023 Cracow)
 
+### [Hackathon onboarding presentations](https://mega.nz/folder/CrAWTRIA#1QL9eDWAL-z36oIYmovWlg)
+
 ## Hackathon chat
 
 Please use this link to join
