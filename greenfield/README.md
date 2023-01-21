@@ -1,3 +1,10 @@
+## Ontology (schema)
+
+
+FAIRVASC: https://w3id.org/FAIRVASC#
+BVAS: https://w3id.org/BVAS#
+
+
 ## Option 1: local setup
 
 ### [Docker Compose file](/greenfield/docker-compose.yml)
